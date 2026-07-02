@@ -77,7 +77,7 @@ cd PetChoice-Part2
 
 Install dependencies:
 
-npm install
+npm install 
 
 Run the application:
 
@@ -143,8 +143,7 @@ MongoDB database integration
 Advanced filtering and sorting
 User reviews and ratings
 Multiple pet categories
-Author
-
+Author 
 
 Seneca Polytechnic
 
